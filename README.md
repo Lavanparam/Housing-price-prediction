@@ -1,9 +1,8 @@
 # <p style="padding:10px;background-color:orange;margin:0;color:black;font-family:newtimeroman;font-size:150%;text-align:center;border: 15px 50px;overflow:hidden;font-weight:500">Housing price prediction</p>
 
 <p style="text-align:center; ">
-<img src="https://images.all-free-download.com/images/graphiclarge/real_estate_broker_job_design_element_businessman_house_sketch_cartoon_design_6921617.jpg" style='width: 500px; height: 300px;'>
+<img src= "https://images.all-free-download.com/images/graphiclarge/real_estate_broker_job_design_element_businessman_house_sketch_cartoon_design_6921617.jpg" style='width: 500px; height: 300px;'>
 </p>
-
 
 <p style="text-align:justify; ">
     
