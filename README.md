@@ -1,7 +1,7 @@
 # <p style="padding:10px;background-color:orange;margin:0;color:black;font-family:newtimeroman;font-size:150%;text-align:center;border: 15px 50px;overflow:hidden;font-weight:500">Housing price prediction</p>
 
 <p style="text-align:center; ">
-<img src="[[[https://i.pinimg.com/originals/08/fe/bf/08febfc22b4f625af21470927aa723d4.jpg](https://homeownershipmatters.realtor/wp-content/uploads/2020/07/Suburb-1200.png)](https://www.mashvisor.com/blog/wp-content/uploads/2020/06/Suburban-Real-Estate-Market-Boom-Due-to-COVID-19.jpg)](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2020/12/real_estate_investing-e1607584315870.jpg)" style='width: 500px; height: 300px;'>
+<img src="[[[[https://i.pinimg.com/originals/08/fe/bf/08febfc22b4f625af21470927aa723d4.jpg](https://homeownershipmatters.realtor/wp-content/uploads/2020/07/Suburb-1200.png)](https://www.mashvisor.com/blog/wp-content/uploads/2020/06/Suburban-Real-Estate-Market-Boom-Due-to-COVID-19.jpg)](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2020/12/real_estate_investing-e1607584315870.jpg)](https://media.licdn.com/dms/image/C4E0DAQHr7Q_em4cKXA/learning-public-crop_288_512/0/1605044653189?e=2147483647&v=beta&t=63GHwD6oHrrGokGbRgn8nHef9NfiEW0kBEMGi4Qmci8)" style='width: 500px; height: 300px;'>
 </p>
 
 
