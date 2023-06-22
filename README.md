@@ -20,7 +20,7 @@ There are 79 explanatory variables each represented by a column in the dataset. 
 
 # <p style="padding:10px;background-color:orange;margin:0;color:black;font-family:newtimeroman;font-size:100%;text-align:center;border: 15px 50px;overflow:hidden;font-weight:500">Approach</p>
 
-### Here is a breakdown of my approach of the project:
+### Here is a breakdown of my approach to the project:
 
 1. Dataset exploratation and basic cleaning
 2. Exploratory data analysis (EDA)
