@@ -1,7 +1,7 @@
 # <p style="padding:10px;background-color:orange;margin:0;color:black;font-family:newtimeroman;font-size:150%;text-align:center;border: 15px 50px;overflow:hidden;font-weight:500">Housing price prediction</p>
 
 <p style="text-align:center; ">
-<img src="https://i.pinimg.com/originals/08/fe/bf/08febfc22b4f625af21470927aa723d4.jpg" style='width: 300px; height: 300px;'>
+<img src="[https://i.pinimg.com/originals/08/fe/bf/08febfc22b4f625af21470927aa723d4.jpg](https://homeownershipmatters.realtor/wp-content/uploads/2020/07/Suburb-1200.png)" style='width: 500px; height: 300px;'>
 </p>
 
 
